@@ -8,6 +8,8 @@ resources：
     2.zookeeper：
         直接启动bin目录下的zkServer.cmd
 
+    3.Dubbo-1-master.zip：传统的xml配置的dubbo(spring环境也是xml)
+
 
   此项目是maven多模块项目
     1.dubboapi:提供通用接口(包含了实体类，注意实体类需要序列化)
